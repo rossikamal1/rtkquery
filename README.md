@@ -1,1 +1,1 @@
-redux toolkit query- crud operations
+redux toolkit query -a crud operation
